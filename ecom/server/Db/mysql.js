@@ -13,3 +13,16 @@ db.connect(err => {
 });
 
 module.exports = db;
+
+
+
+// CREATE DATABASE ecommerce_orders;
+
+// USE ecommerce_orders;
+
+// CREATE TABLE orders (
+//     id INT AUTO_INCREMENT PRIMARY KEY,
+//     customer_name VARCHAR(100),
+//     total DECIMAL(10,2)
+// );
+
