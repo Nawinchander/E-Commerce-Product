@@ -5,3 +5,34 @@ Project: E-Commerce Product Management App
 This project is simple but touches all major full-stack concepts
 
 
+React Frontend
+   |
+ Axios API Calls
+   |
+Express + Node Backend
+   |
+MongoDB (Products)
+MySQL (Users / Orders)
+
+
+ecommerce-app/
+│
+├── client/                 # React Frontend
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── ProductList.js
+│   │   │   └── AddProduct.js
+│   │   ├── App.js
+│   │   └── api.js
+│
+├── server/                 # Node Backend
+│   ├── models/
+│   │   └── Product.js
+│   ├── routes/
+│   │   └── productRoutes.js
+│   ├── db/
+│   │   └── mysql.js
+│   ├── server.js
+│   └── .env
+
+
