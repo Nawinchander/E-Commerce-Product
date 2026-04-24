@@ -36,3 +36,34 @@ ecommerce-app/
 │   └── .env
 
 
+How It Works
+
+Add Product:
+React form takes input
+Axios sends data to Express API
+Express saves in MongoDB
+
+View Products:
+React calls API
+API fetches products from MongoDB
+Products displayed in UI
+Orders:
+Can be saved in MySQL
+
+Interview Concepts Covered
+
+This project demonstrates:
+
+Frontend:
+React Hooks
+Axios
+Props
+State Management
+
+Backend:
+Node.js
+Express.js
+REST API
+Database:
+MongoDB
+MySQL
