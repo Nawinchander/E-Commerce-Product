@@ -1,0 +1,7 @@
+A good basic full-stack React project that covers frontend + backend and uses JavaScript, Node.js, Express, APIs, SQL, MongoDB, React Hooks, Axios, and Props is:
+
+Project: E-Commerce Product Management App
+
+This project is simple but touches all major full-stack concepts
+
+
