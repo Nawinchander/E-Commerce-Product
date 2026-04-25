@@ -1,4 +1,18 @@
+import Navbar from "./components/Navbar";
+import AddProduct from "./components/AddProduct";
+import ProductList from "./components/ProductList";
 
+function App() {
+  return (
+    <>
+      <Navbar />
+      <AddProduct />
+      <ProductList />
+    </>
+  );
+}
+
+export default App;
 
 
 
