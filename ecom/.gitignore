@@ -5,6 +5,12 @@ package-lock.json
 package.json
 
 
+ecom/server/package-lock.json
+ecom/server/package.json
+
+server/package.json
+server/package-lock.json
+
 /package-lock.json
 /package.json
 
